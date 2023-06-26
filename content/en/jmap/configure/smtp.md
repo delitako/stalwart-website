@@ -55,5 +55,5 @@ smtp-relay-timeout: 60000 # ms
 E-mail messages sent via Stalwart JMAP can be signed using __DKIM__ (Domain Keys Identified Mail),
 which is an email authentication technique that allows the receiver to check that an email was indeed 
 sent and authorized by the owner of that domain.
-To enable DKIM on your domain, please refer to the [DKIM - Domain management section](/manage/domains#dkim).
+To enable DKIM on your domain, please refer to the [DKIM - Domain management section](/jmap/manage/domains#dkim).
 
